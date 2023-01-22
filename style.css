@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: 0;
+}
+
+body{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.reloj{
+    width: 70;
+    display: flex;
+    justify-content: center;
+    color: aqua;
+    font-family: DS-Digital;
+    font-size: 90px;
+}
+
+.text-min{
+    padding: 15px;
+    font-size: 40px;
+}
